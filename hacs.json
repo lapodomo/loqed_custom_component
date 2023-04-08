@@ -1,6 +1,6 @@
 {
-    "name": "Loqed Lock",
-    "hacs": "1.6.0",
+    "name": "Loqed Lock Fixed version",
+    "hacs": "1.6.1",
     "domains": [
         "lock"
     ],
